@@ -36,7 +36,6 @@ This project is the implementation of **CLIP** from OpenAI on the web.
 - Programming
 
   ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/HTML/CSS-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
   
